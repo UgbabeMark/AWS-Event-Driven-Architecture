@@ -1,1 +1,1 @@
-# AWS-Event-Driven-Architecture
+# AWS Event-Driven Architecture
