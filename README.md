@@ -2,6 +2,8 @@
 
   __Project: Event-Driven Architecture with S3, SNS, SQS and Lambda on AWS__
 
+  ![Enrollment](Images/EDA.png)
+
 **Overview**
 
 This project showcases an implementation of an **event-driven architecture (EDA) on AWS.** 
